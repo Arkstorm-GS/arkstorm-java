@@ -46,7 +46,7 @@ O Arkstorm é um sistema completo para monitorar condições climáticas adversa
 ./mvnw spring-boot:run
 ```
 4. Acesse o Swagger UI:
-[text](http://localhost:8080/swagger-ui.html)
+[[text](http://localhost:8080/swagger-ui.html)](http://localhost:8080/swagger-ui/index.html)
 
 ## 📌 Observações
 
